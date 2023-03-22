@@ -45,13 +45,13 @@ grid.plot_candlestick()
 ```python
 grid.plot_performance()
 ```
-> Yearly Cumulative Return: 54.0%
-> Weekly Cumulative Return: 0.83%
-> Yearly Max Cumulative Return: 103%
-> MDD: 1.22%
-> Return on MDD: 0.68
-> Sharpe Ratio: 4.9
-> Trade Volume: 10
+Yearly Cumulative Return: 54.0%  
+Weekly Cumulative Return: 0.83%  
+Yearly Max Cumulative Return: 103%  
+MDD: 1.22%  
+Return on MDD: 0.68  
+Sharpe Ratio: 4.9  
+Trade Volume: 10  
 ![plot_performance](https://github.com/hsuan1998/Grid_Strategy/blob/main/images/performance.png)  
 #### 交易詳細資料
 ```python
