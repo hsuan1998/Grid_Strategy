@@ -1,6 +1,6 @@
 # Grid_Strategy
 網格交易結合LSTM模型預測價格範圍  
-### 使用方式舉例  
+## 使用方式舉例  
 #### 讀入資料與總資金
 ```python
 grid = GridStrategy(wealth = 1000000,
